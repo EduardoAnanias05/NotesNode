@@ -24,6 +24,8 @@ Desenvolver uma aplicação de bloco de notas que permita aos usuários criar, e
 - **Temporal:** Concluir o desenvolvimento da aplicação em 12 semanas.
 
 ## 3. Cronograma - Diagrama de Gantt
+![image](https://github.com/user-attachments/assets/77e5bed6-16fa-47c9-aa9a-0c84cf96f2a2)
+
 
 ### 3.1. Planejamento
 - **Definição de Requisitos:** 1 semana
@@ -90,6 +92,16 @@ Desenvolver uma aplicação de bloco de notas que permita aos usuários criar, e
 ### 5.3. Recursos Financeiros
 - **Orçamento para Ferramentas e Licenças:** $2.000
 - **Custos de Hospedagem e Domínio:** $500
+
+  ### 5.4. Diagrama de Classe
+  ![image](https://github.com/user-attachments/assets/4b57c867-7147-459c-81b9-b952c3529de4)
+
+   ### 5.5. Diagrama de Fluxo
+ ![image](https://github.com/user-attachments/assets/33a9a203-241b-464c-b6dd-310b931e38eb)
+
+ ### 5.5. Diagrama de Fluxo
+ ![image](https://github.com/user-attachments/assets/fdf16088-d58a-48d9-b533-3197e8d6668b)
+
 
 ### Link do Figma: 
 
